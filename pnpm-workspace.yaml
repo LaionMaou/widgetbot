@@ -1,2 +1,11 @@
 packages:
-  - 'packages/*'
+  - 'packages/configurator'
+  - 'packages/crate'
+  - 'packages/crate-cloudflare'
+  - 'packages/embed'
+  - 'packages/embed-api'
+  - 'packages/html-embed'
+  - 'packages/nedb'
+  - 'packages/react-embed'
+  - 'packages/scripts'
+  - 'packages/server'
